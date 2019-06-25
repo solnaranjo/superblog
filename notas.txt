@@ -1,0 +1,78 @@
+___________________________________
+
+CURSO DE GIT Y GITHUB 2019 -- NOTAS
+___________________________________
+
+
+______________
+
+GIT
+______________
+
+INICIAR UN REPOSITORIO
+
+Para inicar un repositorio, usamos el comando git init.
+
+--
+
+GIT LOG
+
+Usado para saber la historia de un archivo, osea su historia de commits.
+
+git log [archivo]
+
+--
+
+GIT STATUS
+
+Usado para saber si hay un archivo modificado, añadido, borrado,
+o para saber en que rama estamos y si se necesitan commits. 
+
+Sintaxis:
+
+git status
+
+--
+
+GIT RM 
+
+Se usa para borrar un archivo que hayamos añadido, si quieres borrar
+un archivo por completo, usamos git rm --cached.
+
+git rm [archivo]
+
+--
+
+COMMITS
+
+Para hacer un commit, primero añade un archivo usando el comando
+git add. Esto aplica para archivos modificados. Despues usa el comando
+git commit, y si quieres añadir un mensaje. Un ejemplo:
+
+git commit -m "Esto es un ejemplo"
+
+--
+
+GIT CONFIG
+
+Puedes hacer configuraciones en git, como tu email de usuario.
+Para hacer esto, simplemente tienes que escribir este comando:
+
+git config --global [configurado] "{valor}"
+
+Si quieres una lista de lo que quieres configurar, puedes ejecutar
+git config --list, o solo git config.
+
+--
+
+-LETRAS
+
+-m = mensaje
+
+--
+
+OTRAS NOTAS
+
+1. Un guion significa que es una letra (ejemplo -m), y dos guiones significa que
+es una palabra (ejemplo --global)
+
