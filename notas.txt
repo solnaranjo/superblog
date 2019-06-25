@@ -71,6 +71,14 @@ git config --list, o solo git config.
 
 --
 
+GIT DIFF
+
+Este comando analiza las diferencias entre commits.
+
+git diff [codigo commit 1] [codigo commit 2]
+
+--
+
 GIT SHOW
 
 Muestra los cambios en un archivo, y te muestra el commit donde se
