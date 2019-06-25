@@ -82,9 +82,25 @@ git diff [codigo commit 1] [codigo commit 2]
 GIT SHOW
 
 Muestra los cambios en un archivo, y te muestra el commit donde se
-hicieron los cambios.
+hicieron los cambios del archivo.
 
 git show [archivo]
+
+--
+
+GIT MERGE	
+
+Git merge incorpora cambios de otra rama a la rama actual. Importante: git merge se ejecuta desde la rama actual.
+
+git merge [Rama]
+
+--
+
+GIT CHECKOUT
+
+Git checkout te lleva desde la rama actual hasta la rama solicitada. 
+
+git checkout [rama]
 
 --
 
