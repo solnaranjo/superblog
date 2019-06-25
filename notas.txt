@@ -67,7 +67,7 @@ git config --list, o solo git config.
 
 -LETRAS
 
--m = mensaje
+ssm = mensaje
 
 --
 
