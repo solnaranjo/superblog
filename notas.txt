@@ -67,7 +67,16 @@ git config --list, o solo git config.
 
 -LETRAS
 
-ssm = mensaje
+-m = mensaje
+
+--
+
+GIT SHOW
+
+Muestra los cambios en un archivo, y te muestra el commit donde se
+hicieron los cambios.
+
+git show [archivo]
 
 --
 
