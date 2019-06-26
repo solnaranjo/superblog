@@ -104,6 +104,15 @@ git checkout [rama]
 
 --
 
+CONEXION CON GITHUB 
+
+Primero se copia el url que se coje del boton clone o download.
+*Ejecutar git remote add origin + URL
+*Verificar que la URL se haya guardado correctamente con git remote o git remote -v
+*Traer la última versión del repositorio con el comando git pull origin master
+*Si es la primera vez que traemos cambios usaremos el comando git pull origin master --allow-unrelated-histories
+*Para enviar cambios a GitHub usamos el comando git push origin master
+
 OTRAS NOTAS
 
 1. Un guion significa que es una letra (ejemplo -m), y dos guiones significa que
