@@ -1,6 +1,6 @@
 body
 {
-    color: blue;
+    color: black;
     text-align: center;
     font-family: Arial;
     font-size: 10px;
@@ -16,7 +16,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 1em;
 }
 
 #cabecera #tagline
@@ -42,4 +42,13 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer {
+
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 1em;
+
 }
