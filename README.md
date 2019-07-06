@@ -16,6 +16,7 @@ En el curso de github vimos y veremos:
 * Buenas practicas
 * Sol
 * Hecho por Platzi y Sol
+* gato
 
 ###### Nota sobre Superblog
 
