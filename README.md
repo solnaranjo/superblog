@@ -15,6 +15,7 @@ En el curso de github vimos y veremos:
 * Trabajo en GitHub
 * Buenas practicas
 * Sol
+* Hecho por Platzi y Sol
 
 ###### Nota sobre Superblog
 
