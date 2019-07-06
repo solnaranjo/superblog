@@ -17,6 +17,7 @@ En el curso de github vimos y veremos:
 * Sol
 * Hecho por Platzi y Sol
 * gato
+* Para todas las edades
 
 ###### Nota sobre Superblog
 
