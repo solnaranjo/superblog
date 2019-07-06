@@ -16,8 +16,11 @@ En el curso de github vimos y veremos:
 * Buenas practicas
 * Sol
 * Hecho por Platzi y Sol
+<<<<<<< HEAD
 * gato
 * Para todas las edades
+=======
+>>>>>>> 2987146... Creditos a Platzi
 
 ###### Nota sobre Superblog
 
